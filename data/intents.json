@@ -1,0 +1,79 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": ["Hi", "Hello", "Hey", "Good morning", "Good evening", "Is anyone there?", "Greetings", "Hi retail bot"],
+      "responses": ["Hello! Welcome to Smart Retail Customer Support. How can I assist you today?", "Hi there! How can I help with your shopping experience today?", "Welcome! What can I do for you today?"]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": ["Bye", "See you later", "Goodbye", "Have a good day", "Catch you later", "Thanks bye"],
+      "responses": ["Thank you for shopping with us! Have a fantastic day!", "Goodbye! Feel free to reach out if you need further help.", "Bye! Hope to see you again soon."]
+    },
+    {
+      "tag": "thanks",
+      "patterns": ["Thanks", "Thank you", "That was helpful", "Awesome thanks", "Appreciate your help", "Great, thanks"],
+      "responses": ["You're very welcome! Let me know if you need anything else.", "Glad I could help! Happy shopping!", "Anytime! Have a wonderful day."]
+    },
+    {
+      "tag": "order_status",
+      "patterns": ["Where is my order?", "Track my package", "Check order status", "When will my order arrive?", "Order tracking number", "Has my order shipped?"],
+      "responses": ["You can track your order live under 'My Orders' in your account dashboard, or provide your Order ID here to check its current status.", "Orders typically process within 24 hours. Check your email for shipping updates with tracking links!"]
+    },
+    {
+      "tag": "return_policy",
+      "patterns": ["What is your return policy?", "How do I return an item?", "Can I get a refund?", "30-day return policy", "How many days for return?", "Return guidelines"],
+      "responses": ["We offer a hassle-free 30-day return policy for unused items in original packaging. Refunds are processed within 3-5 business days upon receiving the return."]
+    },
+    {
+      "tag": "store_hours",
+      "patterns": ["What are your store hours?", "When do you open?", "What time do you close?", "Opening hours", "Are you open today?", "Weekend hours"],
+      "responses": ["Our flagship stores are open Monday to Saturday from 9:00 AM to 9:00 PM, and Sundays from 10:00 AM to 6:00 PM. Our online platform operates 24/7!"]
+    },
+    {
+      "tag": "shipping_info",
+      "patterns": ["How long does shipping take?", "Shipping costs", "Do you offer free shipping?", "Standard shipping delivery time", "Express shipping options", "International shipping"],
+      "responses": ["Standard shipping takes 3-5 business days (Free on orders over $50). Express shipping takes 1-2 business days for a flat rate of $9.99."]
+    },
+    {
+      "tag": "payment_options",
+      "patterns": ["What payment methods do you accept?", "Can I pay with credit card?", "Do you accept PayPal?", "Apple Pay accepted?", "Cash on delivery available?", "Payment options"],
+      "responses": ["We accept Visa, MasterCard, American Express, PayPal, Apple Pay, Google Pay, and Cash on Delivery (select zip codes)."]
+    },
+    {
+      "tag": "loyalty_program",
+      "patterns": ["How does customer loyalty work?", "Rewards program", "Earn reward points", "Member discounts", "How do I join VIP club?", "Redeem loyalty points"],
+      "responses": ["Our Loyalty Rewards program lets you earn 1 point for every $1 spent! Redeem 100 points for $5 off your next purchase. Facial recognition in-store auto-checks your VIP status!"]
+    },
+    {
+      "tag": "discounts_coupons",
+      "patterns": ["Are there any promo codes?", "Current sales and deals", "Do you have discounts?", "Promo code for new user", "First order discount"],
+      "responses": ["Use code 'WELCOME10' at checkout for 10% off your first order! Check our 'Deals' page daily for clearance sales up to 50% off."]
+    },
+    {
+      "tag": "store_location",
+      "patterns": ["Where are your stores located?", "Find store near me", "Store address", "Nearest outlet", "Retail store locations"],
+      "responses": ["You can search all our store locations and get directions using our interactive Store Finder on our website or app!"]
+    },
+    {
+      "tag": "product_warranty",
+      "patterns": ["Does this product have a warranty?", "Warranty policy", "How to claim warranty?", "Guarantee duration"],
+      "responses": ["All electronics and appliances come with a standard 1-year manufacturer warranty. Extended 2-year protection plans are available at checkout."]
+    },
+    {
+      "tag": "gift_cards",
+      "patterns": ["Do you sell gift cards?", "How to check gift card balance", "Buy digital gift card", "Redeem gift card code"],
+      "responses": ["Yes! Digital gift cards are available in amounts from $10 to $500. You can check your gift card balance on our checkout page."]
+    },
+    {
+      "tag": "cancellation_policy",
+      "patterns": ["Can I cancel my order?", "How to cancel an order", "Cancel item before shipping", "Modify order details"],
+      "responses": ["Orders can be canceled within 1 hour of placing them directly from your account page before they enter processing."]
+    },
+    {
+      "tag": "customer_support_human",
+      "patterns": ["Talk to a human", "Speak with real customer agent", "Customer care representative", "Phone number for support", "Live chat agent"],
+      "responses": ["Connecting you to customer care! You can call our support helpline at 1-800-555-RETAIL (Mon-Fri 8AM-8PM EST) or chat with an agent on live support."]
+    }
+  ]
+}

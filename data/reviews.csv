@@ -1,0 +1,41 @@
+review_id,review_text,sentiment,category,rating
+1,"The product quality is exceptional! Fast delivery and great customer service.",positive,Clothing,5
+2,"Terrible product. Arrived broken and customer service refused to refund.",negative,Electronics,1
+3,"Average quality for the price. Fits okay but material feels cheap.",neutral,Clothing,3
+4,"Absolutely love these shoes! Extremely comfortable and super stylish.",positive,Shoes,5
+5,"The handbag leather started peeling after just one week. Very disappointed.",negative,Bags,1
+6,"Decent wireless earbuds. Sound quality is good but battery life is mediocre.",neutral,Electronics,3
+7,"Fresh groceries delivered on time! Everything was organic and carefully packaged.",positive,Groceries,5
+8,"Wrong item delivered. Wait time for support response was over 45 minutes.",negative,Clothing,1
+9,"The laptop performs well for standard tasks. Nothing extraordinary but works fine.",neutral,Electronics,3
+10,"Great value for money. Fits perfectly and looks exactly like the photos.",positive,Clothing,5
+11,"Complete waste of money! Item stopped working on day two.",negative,Electronics,1
+12,"It is okay. Does what it advertises, nothing more nothing less.",neutral,Bags,3
+13,"Super fast shipping, brilliant product design, and wonderful packaging!",positive,Bags,5
+14,"Stitching on the jacket came loose after first wash. Poor quality control.",negative,Clothing,2
+15,"Standard delivery time. Product color matches the picture.",neutral,Shoes,3
+16,"Extremely happy with my purchase! Highly recommended store to everyone.",positive,Groceries,5
+17,"Damaged box, missing accessories, and zero responsiveness from helpline.",negative,Electronics,1
+18,"Size is slightly larger than expected, but quality is decent.",neutral,Clothing,3
+19,"Incredible customer support! They replaced my damaged package immediately.",positive,Clothing,5
+20,"Overpriced item and cheap plastic finish. Would not buy again.",negative,Bags,1
+21,"Product arrived on time. Packaging was fine.",neutral,Groceries,3
+22,"Best purchase I have made this year! Top notch build quality and comfort.",positive,Shoes,5
+23,"Defective unit. Had to pay for return shipping which is ridiculous.",negative,Electronics,1
+24,"Satisfactory product. Standard quality for this price range.",neutral,Shoes,3
+25,"Exceeded all my expectations! Sleek design and works flawlessly.",positive,Electronics,5
+26,"Fabric is uncomfortable and color faded instantly.",negative,Clothing,1
+27,"Service was alright, delivery took a couple days extra.",neutral,Groceries,3
+28,"Fantastic purchase! Will definitely be buying more from this store.",positive,Bags,5
+29,"Order was delayed by two weeks without any notification.",negative,Clothing,1
+30,"Normal quality product, nothing special.",neutral,Clothing,3
+31,"Wonderful experience! Clean interface, easy order placement and quick dispatch.",positive,Electronics,5
+32,"Product did not match description at all. Total scam.",negative,Shoes,1
+33,"Acceptable quality, fine for daily general usage.",neutral,Bags,3
+34,"Loved the customer loyalty perks and instant discounts!",positive,Groceries,5
+35,"Customer support was rude and unhelpful when I reported an issue.",negative,Electronics,1
+36,"Fair deal. Price matches what you get.",neutral,Clothing,3
+37,"High quality fabric and perfect stitching. Super comfortable fit!",positive,Clothing,5
+38,"Battery drains within one hour of usage. Completely unusable.",negative,Electronics,1
+39,"Average product. Serves its basic purpose.",neutral,Groceries,3
+40,"Outstanding customer experience from purchase to unboxing!",positive,Shoes,5
